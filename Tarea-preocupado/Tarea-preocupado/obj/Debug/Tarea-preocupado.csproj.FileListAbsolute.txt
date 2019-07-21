@@ -1,0 +1,7 @@
+C:\Users\CompuStore\source\repos\Tarea-preocupado\Tarea-preocupado\bin\Debug\Tarea-preocupado.exe.config
+C:\Users\CompuStore\source\repos\Tarea-preocupado\Tarea-preocupado\bin\Debug\Tarea-preocupado.exe
+C:\Users\CompuStore\source\repos\Tarea-preocupado\Tarea-preocupado\bin\Debug\Tarea-preocupado.pdb
+C:\Users\CompuStore\source\repos\Tarea-preocupado\Tarea-preocupado\obj\Debug\Tarea-preocupado.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\Tarea-preocupado\Tarea-preocupado\obj\Debug\Tarea-preocupado.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\Tarea-preocupado\Tarea-preocupado\obj\Debug\Tarea-preocupado.exe
+C:\Users\CompuStore\source\repos\Tarea-preocupado\Tarea-preocupado\obj\Debug\Tarea-preocupado.pdb
